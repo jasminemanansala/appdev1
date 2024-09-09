@@ -16,7 +16,7 @@ Usage: Describe how the technology is utilized in both education and IT.
 Answer: Technologyu is utilized in education and IT in facilitating
 instructions and learning. It gives resources for education, digital
 learning platforms, visual classrooms, and games that are intented
-for learning.
+for learning. 
 
 Examples: Provide specific examples of how this technology is applied
 in real-world scenarios.

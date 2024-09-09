@@ -1,0 +1,24 @@
+// Assignment: Exploring Emerging Technologies //
+
+For this assignment, you will research at least five emerging technologies
+that are impacting both the education sector and the IT industry.
+For each technology, provide the following:
+
+Purpose: Explain the primary goal or benefit of the technology.
+Answer: The primary goal or benefit of technology is to
+solve human problem or meet human needs or desires. Technology can
+help humans for many different kinds of purposes such as: proving food,
+shelter, communication, entertainment, and many more. Technology is made
+by humans themselves therefore, also providing them the needs to for
+themselves and their surroundings in making life easier and happier.
+
+Usage: Describe how the technology is utilized in both education and IT.
+Answer: Technologyu is utilized in education and IT in facilitating
+instructions and learning. It gives resources for education, digital
+learning platforms, visual classrooms, and games that are intented
+for learning.
+
+Examples: Provide specific examples of how this technology is applied
+in real-world scenarios.
+Answer: - E-commerce apps where you online shop and they deliver the
+product to you house. - An washing machine that cleans our clothes. - A machine that prepares our food. - A robot that serves food. - Self-driving cars. - Cellphone.

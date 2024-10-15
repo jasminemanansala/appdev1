@@ -1,3 +1,6 @@
+import './App.css'
+import Profile from './Profile'
+
 // Creating and nesting components
 function MyButton() {
   return (
@@ -16,6 +19,7 @@ function AboutPage() {
 
       {/* Adding Styles */}
       <img className="avatar" src="https://i.imgur.com/yXOvdOSs.jpg" />
+
     </>
   );
 }
@@ -29,6 +33,9 @@ function App() {
       <h1>Welcome to my app.</h1>
       <MyButton/>
       <AboutPage />
+
+      {/* Displaying Data */}
+      <Profile/>
     </>
   )
 }

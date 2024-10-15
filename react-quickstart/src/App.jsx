@@ -1,5 +1,7 @@
 import './App.css'
 import Profile from './Profile'
+import AdminPanel from './AdminPanel'
+import LoginForm from './LoginForm'
 
 // Creating and nesting components
 function MyButton() {
@@ -27,6 +29,16 @@ function AboutPage() {
 
 
 function App() {
+  
+  // Conditional rendering
+  let content;
+  let isLoggedIn = false;
+
+  if (isLoggedIn) {
+    content = <AdminPanel />;
+  } else {
+    content = <LoginForm />;
+  }
 
   return (
     <>
@@ -34,8 +46,16 @@ function App() {
       <MyButton/>
       <AboutPage />
 
+      
       {/* Displaying Data */}
-      <Profile/>
+      <Profile />
+
+      
+      {/* Conditional rendering */}
+      {content}
+      
+      
+      
     </>
   )
 }

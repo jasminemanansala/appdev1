@@ -1,18 +1,12 @@
-// Updating the screen
-import { useState } from 'react';
+import MyButton from './MyButton'
 
-function MyButton() {
-  const [count, setCount] = useState(0);
-
-  function handleClick() {
-    setCount(count + 1);
-  }
-
+export default function MyApp() {
   return (
-    <button onClick={handleClick}>
-      Clicked {count} times
-    </button>
+    <div>
+      <h1>Counters that update separately</h1>
+      <MyButton />
+      <MyButton />
+    </div>
   );
 }
 
-export default MyButton

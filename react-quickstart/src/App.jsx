@@ -1,12 +1,23 @@
-import MyButton from './MyButton'
+import MyButton from './MyButton.jsx'
+import React from 'react'
+import { useState } from 'react';
 
-export default function MyApp() {
+
+function MyApp() {
+    const [count, setCount] = useState(0);
+
+    function handleClick() {
+        setCount(count + 1);
+    }
+
   return (
     <div>
       <h1>Counters that update separately</h1>
-      <MyButton />
-      <MyButton />
+      <MyButton count={count} onClick={handleClick} />
+  	  <MyButton count={count} onClick={handleClick} />
     </div>
   );
 }
+
+export default MyApp
 

@@ -5,8 +5,19 @@ import LoginForm from './LoginForm'
 
 // Creating and nesting components
 function MyButton() {
+  function handleClick() {
+    alert('You clicked me!');
+  }
+
   return (
-    <button>I'm a button</button>
+    // <button>I'm a button</button>
+
+
+    
+    // Responding to events
+    <button onClick={handleClick}>
+      Click me
+    </button>
   );
 }
 

@@ -1,0 +1,40 @@
+As a Manager, the way that I will handle the situation would be by:
+
+• Empathize with the developer facing the personal issue then evaluate the short-term effects on the project timeline and workload and communicate with the team members so that they may provide suggestions and voice out concerns to encourage open communication.
+• Redistribute the work by reassigning tasks with the remaining team members. Prioritize tasks so that all key components are covered.
+• Utilize resources by hiring short-term contractors from other teams for temporary support.
+• Have a clear communication by also informing client/s about the situation honestly while also emphasizing the team's commitment in meeting the deadlines.
+• Document or provide a revised timeline by outlining the measures we have taken in order to avoid the delay.
+• Provide support to the Team through encouragement in maintaining unity and supportiveness among themselves during the time of the issue. 
+• Monitoring is also needed to oversee the team's workload to prevent burnout with their tasks.
+
+
+
+
+
+As a Developer, the way that I will handle the situation would be by:
+
+• Letting the manager know the manager know immediately that there is a family emergency and also telling the estimation of time I need to be away from work.
+• Assign to colleagues if possible to most urgent tasks needed to be finished. I will also be giving a documentation of my current progress in giving proper handover notes.
+• Updating the manager by providing updates on my availability on work and if possible, I will be checking in periodically in addressing urgent questions or issues.
+• Complete smaller tasks remotely if possible if I have any available time.
+• Catch up on priority work once I am back.
+
+
+
+What Could Have Been Done Better:
+For the Manager,
+• Anticipate the possible risk and mitigate it by planning ahead together with potential risks that may come just like the developer that had sudden family problems.
+• Train team members to handle each other's tasks in emergency situations.
+• Allocate resources for sudden needs of temporary support.
+• Add additional time in the project schedules for unexpected problems.
+• Regular check-ins in gauging workload and identifying early signs of burnout or personal issues.
+
+
+
+For the Developer,
+• Detailed documentation of tasks and progress to easily facilitate other team members.
+• Updating regularly to the manager for any more potential personal issues that might affect the work.
+• Prioritize activities in order of their importance and impact on the project calender.
+
+For better management, the entire team should be able to support each other where in they are able to adapt colleagues works. Not to make them do it, but for the whole team to still function despite of one developer going out. The team must be able to ensure that the project remains on track despite any inconveniences by having a better plan as a manager and as a developer.

@@ -8,4 +8,4 @@ const App = () => (
   </StudentProvider>
 );
 
-export default App;
+export default App; 

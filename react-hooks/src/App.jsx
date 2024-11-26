@@ -3,7 +3,7 @@ import { StudentProvider, StudentProfile } from './StudentProfile';
 const App = () => (
   <StudentProvider>
     <div>
-      <StudentProfile />
+      <StudentProfile/>
     </div>
   </StudentProvider>
 );
